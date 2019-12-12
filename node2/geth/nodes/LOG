@@ -1,0 +1,13 @@
+=============== Dec 5, 2019 (CST) ===============
+21:55:32.494763 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:55:32.499587 db@open opening
+21:55:32.499992 version@stat F·[] S·0B[] Sc·[]
+21:55:32.501088 db@janitor F·2 G·0
+21:55:32.501118 db@open done T·1.480383ms
+23:24:02.506120 memdb@flush N·42761 S·3MiB
+23:24:02.549488 memdb@flush created L0@3 N·42761 S·699KiB "loc..seq,v7":"version,v1"
+23:24:02.549525 version@stat F·[1] S·699KiB[699KiB] Sc·[0.25]
+23:24:02.550194 memdb@flush committed F·1 T·44.005942ms
+23:24:02.550997 journal@remove removed @1
+23:33:05.273104 db@close closing
+23:33:05.273402 db@close done T·295.486µs
