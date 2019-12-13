@@ -1,8 +1,8 @@
-=============== Dec 5, 2019 (CST) ===============
-21:52:42.864138 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-21:52:42.866424 db@open opening
-21:52:42.866925 version@stat F·[] S·0B[] Sc·[]
-21:52:42.867551 db@janitor F·2 G·0
-21:52:42.867570 db@open done T·1.078287ms
-21:52:42.867983 db@close closing
-21:52:42.868021 db@close done T·36.033µs
+=============== Dec 4, 2019 (CST) ===============
+19:35:34.967656 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:35:34.969451 db@open opening
+19:35:34.970801 version@stat F·[] S·0B[] Sc·[]
+19:35:34.971491 db@janitor F·2 G·0
+19:35:34.971510 db@open done T·2.028546ms
+19:35:34.978267 db@close closing
+19:35:34.978298 db@close done T·30.07µs
